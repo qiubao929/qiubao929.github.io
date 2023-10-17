@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://qiubao929.github.io/qiubao929/sitemap.xml
+Sitemap: https://qiubao929.github.io//al-folio/sitemap.xml
