@@ -9,7 +9,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>tel:12345678910</p>
-    <p>Najing,Jiangsu Province，China</p>
+    <p>Najing,Jiangsu Province</p>
     <p>female</p>
 
 news: true  # includes a list of news items
