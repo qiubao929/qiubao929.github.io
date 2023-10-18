@@ -2,7 +2,7 @@
 layout: page
 title: Photography
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Here are some of my photographs<p>I hope you like it~
 nav: true
 nav_order: 2
 display_categories: [work, fun]
