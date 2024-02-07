@@ -1,8 +1,8 @@
 ---
 layout: post
-title: a post with bibliography
-date: 2023-07-12 09:56:00-0400
-description: have a try here
+title: cnki page
+date: 2024-02-07 09:56:00-0400
+description: 
 tags: formatting bib
 categories: sample-posts
 giscus_comments: true
