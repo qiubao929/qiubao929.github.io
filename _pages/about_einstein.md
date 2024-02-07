@@ -1,5 +1,2 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+目前就读于南京大学新闻传播学院新闻学专业，比较感兴趣的研究方向为新闻理论/新闻生产社会学。计算传播作为一种量化方法，也是我希望在未来能够运用的，特别是做关于社会网络分析/元新闻话语分析以及内容分析时，计算传播学的数据思维和方法，能提供很高的支撑。
+我曾在传统媒体和美国新闻类外企实习，主要方向是做内容。我希望自己能够在研究生期间多多培养自己新闻实务技能，以及在计算传播当中学到的数据分析技能，实现职业生涯的更好发展
