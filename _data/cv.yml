@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 29th Sep
     - name: Languages
-      value: Chinese, English
+      value: Chinese
 
 - title: Education
   type: time_table
