@@ -17,3 +17,12 @@ profiles:
       <p>tel：123456</p>
       <p>address：Nanjing</p>
       <p>age: 23</p>
+  - align: left
+    image: prof_pic.jpg
+    content: about_einstein.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>tel：123456</p>
+      <p>address：Nanjing</p>
+      <p>age: 23</p>
+---
