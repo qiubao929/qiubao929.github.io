@@ -1,2 +1,3 @@
-目前就读于南京大学新闻传播学院新闻学专业，比较感兴趣的研究方向为新闻理论/新闻生产社会学。计算传播作为一种量化方法，也是我希望在未来能够运用的，特别是做关于社会网络分析/元新闻话语分析以及内容分析时，计算传播学的数据思维和方法，能提供很高的支撑。
-我曾在传统媒体和美国新闻类外企实习，主要方向是做内容。我希望自己能够在研究生期间多多培养自己新闻实务技能，以及在计算传播当中学到的数据分析技能，实现职业生涯的更好发展
+I am currently studying journalism at the School of Journalism and Communication, Nanjing University. My major interest lies in the fields of journalism theory and sociology of news production. Computational communication, as a quantitative method, is something I hope to utilize in the future, especially in areas such as social network analysis, discourse analysis of meta-news, and content analysis. The data thinking and methods of computational communication can provide strong support in these areas.
+
+I have previously interned at traditional media outlets and American news-related foreign companies, mainly focusing on content production. During my graduate studies, I hope to further develop my practical journalism skills and the data analysis skills I acquire in computational communication, aiming for a better career development.
