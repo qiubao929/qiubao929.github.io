@@ -8,7 +8,7 @@
     "url": "https://qiubao929.github.io/",
     "summary": "A student from Nanjing University,learning computational communication research now",
     "location": {
-      "address": "江苏省南京市栖霞区仙林大道163号",
+      "address": "No.163 Xianlin Avenue, Qixia District, Nanjing, Jiangsu Province, China",
       "postalCode": "210008",
       "city": "Nanjing",
       "countryCode": "Jiangsu",
@@ -24,8 +24,8 @@
   },
   "work": [
     {
-      "name": "Symbolic Consumption, Value Identity and Emotional Connection: A Study of the Behaviour of Blind Box Fans in Generation Z",
-      "position": "South-East Communication",
+      "name": "符号消费、价值认同与情感连接：Z世代盲盒迷群行为研究",
+      "position": "东南传播",
       "url": "https://kns.cnki.net/kcms2/article/abstract?v=uzDkwlsKYf-EPAt4iGhJGvEFFHRcWeOf3mYxJykZW-7TxZxv-JkQLFSP7KW21-DvKwNfRUHSR-Xf3HYhFoYY-153p1ERvM_5vkoZmzWBvPbKXmu7vN8QrShBRacczTmobNWRbzvPE8vIUymM8_Z3pw==&uniplatform=NZKPT&language=CHS",
       "startDate": "2022-09-01",
       "endDate": "2022-09-01",
@@ -39,8 +39,8 @@
   "education": [
     {
       "institution": "Nanjing University",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "url": "https://qiubao929.github.io/",
+      "area": "journalism",
       "studyType": "master",
       "startDate": "2023-09-01",
       "endDate": "2026-06-01",
@@ -54,8 +54,8 @@
     {
       "title": "National Scholarships",
       "date": "2021-10-01",
-      "awarder": "本科获得国家奖学金",
-      "summary": "本科第二学年在学院成绩为1/146,获得国家奖学金荣誉"
+      "awarder": "Undergraduate National Scholarship",
+      "summary": "1/146 in the College in the second year of undergraduate studies, with the honour of being awarded a national scholarship"
     }
   ],
   "certificates": [],
